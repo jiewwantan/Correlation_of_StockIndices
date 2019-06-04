@@ -26,10 +26,10 @@ This program allows the user to choose a stock index from choices of 5 major sto
 ![HSI_scatter][image6]
 
 ### Nikkei225's correlation with 4 indices
-[image7]: https://github.com/jiewwantan/Correlation_of_StockIndices/blob/master/NS225_CorrTrend.jpg "NS225_CorrTrend"
+[image7]: https://github.com/jiewwantan/Correlation_of_StockIndices/blob/master/N225_CorrTrend.jpg "NS225_CorrTrend"
 ![NS225_CorrTrend][image7]
 
-[image8]: https://github.com/jiewwantan/Correlation_of_StockIndices/blob/master/NS225_scatter.jpg "NS225_scatter"
+[image8]: https://github.com/jiewwantan/Correlation_of_StockIndices/blob/master/N225_scatter.jpg "NS225_scatter"
 ![NS225_scatter][image8]
 
 ### NIFTY 50's correlation with 4 indices
